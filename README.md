@@ -1,4 +1,4 @@
-### Olá, eu sou Marcos Quadros 👋
+### Olá, eu sou Marcos Quadros <img align="center" alt="Follow-me" src="https://img.shields.io/github/followers/marcosquadros.svg?style=social&label=Follow&maxAge=2592000">   
 
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa Cerâmica Elizabeth Sul
 - 🌱 Atualmente estou estudando Gestão de Tecnologia da Informação, Faculdade Senac Criciúma
@@ -23,7 +23,7 @@
   <img align="center" alt="Marcos-Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <br/><br/>    
   <img align="center" alt="Marcos-Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img align="center" alt="Marcos-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">                                       <img align="center" alt="Marcos-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">                                                                                                       
+  <img align="center" alt="Marcos-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">                                       <img align="center" alt="Marcos-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">                                               
 </div>
   
 ##
@@ -35,11 +35,20 @@
  	<a href="https://www.twitch.tv/katiiaau" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/qRhQ9FJT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mvquadrosdarosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcos.rosa@grupoelizabeth.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-quadros-2aa671163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
  
  
+</div>
+  
+  ##
+ 
+ ### 🎮 Games
+<div> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
   
 ##
