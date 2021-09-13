@@ -23,7 +23,7 @@
   <img align="center" alt="Marcos-Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <br/><br/>    
   <img align="center" alt="Marcos-Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img align="center" alt="Marcos-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">                                       <img align="center" alt="Marcos-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">                                               
+  <img align="center" alt="Marcos-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">                                       <img align="center" alt="Marcos-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   
 ##
