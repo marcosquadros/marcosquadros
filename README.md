@@ -9,9 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosquadros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-
+##
   
-## 🚀 Habilidades
+### 🚀 Habilidades
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-C" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Marcos-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -26,9 +26,9 @@
   <img align="center" alt="Marcos-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">                                       <img align="center" alt="Marcos-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">                                                                                                       
 </div>
   
-  ##
+##
  
- ## 📱 Redes sociais e Contatos
+ ### 📱 Redes sociais e Contatos
 <div> 
   <a href="https://instagram.com/_marcos048" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/_marcos_quadros/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
@@ -41,3 +41,5 @@
   ![Snake animation](https://github.com/marcosquadros/marcosquadros/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+##
