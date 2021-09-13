@@ -1,4 +1,4 @@
-### Olá, eu sou Marcos Quadros <img align="center" alt="Follow-me" src="https://img.shields.io/github/followers/marcosquadros.svg?style=social&label=Follow&maxAge=2592000">   
+### Olá, eu sou Marcos Quadros 👋   
 
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa Cerâmica Elizabeth Sul
 - 🌱 Atualmente estou estudando Gestão de Tecnologia da Informação, Faculdade Senac Criciúma
