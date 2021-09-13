@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/marcos-quadros-2aa671163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
-  ![Snake animation](https://github.com/marcosquadros/marcosquadros/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/marcosquadros/marcosquadros/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
   
