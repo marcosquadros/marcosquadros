@@ -3,10 +3,10 @@
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa Cerâmica Elizabeth Sul
 - 🌱 Atualmente estou estudando Gestão de Tecnologia da Informação, Faculdade Senac Criciúma
 
-<div>
+<!-- <div>
   <a href="https://github.com/marcosquadros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosquadros&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
   
 ##
   
@@ -17,11 +17,12 @@
   <img align="center" alt="Marcos-Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Marcos-Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Marcos-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Marcos-TS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Marcos-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Marcos-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Marcos-Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Marcos-Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img align="center" alt="Marcos-Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img align="center" alt="Marcos-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">                                       <img align="center" alt="Marcos-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Marcos-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">                                     <img align="center" alt="Marcos-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   
 ##
