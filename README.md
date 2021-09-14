@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa Cerâmica Elizabeth Sul
 - 🌱 Atualmente estou estudando Gestão de Tecnologia da Informação, Faculdade Senac Criciúma
-- 📫 Como me encontrar: (48) 9 9932-7233 | mvquadrosdarosa@gmail.com
 
 <div>
   <a href="https://github.com/marcosquadros">
