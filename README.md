@@ -1,4 +1,4 @@
-### Olá, eu sou Marcos Quadros 👋   
+### Olá, Eu sou Marcos Quadros 👋   
 
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa Cerâmica Elizabeth Sul
 - 🌱 Atualmente estou estudando Gestão de Tecnologia da Informação, Faculdade Senac Criciúma
@@ -10,7 +10,7 @@
   
 ##
   
-### 🚀 Habilidades
+### 🚀 Habilidades e Conhecimentos
 <div><br>
   <img align="center" alt="Marcos-Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Marcos-Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -51,3 +51,8 @@
 </div>
   
 ##
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
