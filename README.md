@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa Cerâmica Elizabeth Sul
 - 🌱 Estudante de Gestão de Tecnologia da Informação, Faculdade Senac Criciúma
 
-<!-- <div>
+ <!-- <div>
   <a href="https://github.com/marcosquadros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosquadros&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
@@ -37,10 +37,6 @@
   <a href = "mailto:mvquadrosdarosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcos.rosa@grupoelizabeth.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-quadros-2aa671163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-
- 
- 
 </div>
   
   ##
