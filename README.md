@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa Cerâmica Elizabeth Sul
 - 🌱 Estudante de Gestão de Tecnologia da Informação, Faculdade Senac Criciúma
-- 👨‍🎓 Formado em Curso Técnico de Progração
+- 👨‍🎓 Formado em Curso Técnico de Programação
 
  <!-- <div>
   <a href="https://github.com/marcosquadros">
