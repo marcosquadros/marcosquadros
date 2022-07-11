@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa <a href="https://elizabethrevestimentos.com.br/pt/">Elizabeth Revestimentos</a>
-- 🌱 Estudante de Gestão de Tecnologia da Informação, Faculdade Senac Criciúma
+- 📚 Estudante de Gestão de Tecnologia da Informação, Faculdade Senac Criciúma
 - 👨‍🎓 Formado em Curso Técnico de Programação
 
  <!-- <div>
