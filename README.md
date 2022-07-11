@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Atualmente estou trabalhando em Infraestrutura na empresa Cerâmica Elizabeth Sul
+- 🔭 Atualmente estou trabalhando em Infraestrutura na empresa <a href="https://elizabethrevestimentos.com.br/pt/" target="_blank">Elizabeth Revestimentos</a>
 - 🌱 Estudante de Gestão de Tecnologia da Informação, Faculdade Senac Criciúma
 - 👨‍🎓 Formado em Curso Técnico de Programação
 
