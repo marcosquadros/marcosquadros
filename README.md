@@ -1,4 +1,4 @@
-### Olá, Eu sou Marcos Quadros 👋
+### Olá 👋
 
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa Cerâmica Elizabeth Sul
 - 🌱 Estudante de Gestão de Tecnologia da Informação, Faculdade Senac Criciúma
