@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá 👋 Me chamo Marcos Quadros 😀
 
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa <a href="https://elizabethrevestimentos.com.br/pt/">Elizabeth Revestimentos</a>
 - 📚 Estudante de Gestão de Tecnologia da Informação na <a href="https://www.sc.senac.br/">Faculdade Senac Santa Catarina</a>
