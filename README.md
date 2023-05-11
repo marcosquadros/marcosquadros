@@ -1,4 +1,4 @@
-### Olá 👋 <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+### Olá 👋
 
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa <a href="https://elizabethrevestimentos.com.br/pt/">Elizabeth Revestimentos</a>
 - 📚 Estudante de Gestão de Tecnologia da Informação na <a href="https://www.sc.senac.br/">Faculdade Senac Santa Catarina</a>
@@ -10,6 +10,8 @@
 </div> -->
   
 ###
+
+# Dev Skills: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
   
 ### 🚀 Habilidades e Conhecimentos
 <div><br>
