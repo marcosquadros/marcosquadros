@@ -1,3 +1,4 @@
+<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 ### Olá 👋
 
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa <a href="https://elizabethrevestimentos.com.br/pt/">Elizabeth Revestimentos</a>
@@ -11,7 +12,6 @@
   
 ###
 
-# Dev Skills: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
   
 ### 🚀 Habilidades e Conhecimentos
 <div><br>
