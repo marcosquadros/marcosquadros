@@ -1,6 +1,6 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 
-### Olá 👋
+### Olá
 
 - 🔭 Atualmente estou trabalhando em Infraestrutura na empresa <a href="https://elizabethrevestimentos.com.br/pt/">Elizabeth Revestimentos</a>
 - 📚 Estudante de Gestão de Tecnologia da Informação na <a href="https://www.sc.senac.br/">Faculdade Senac Santa Catarina</a>
