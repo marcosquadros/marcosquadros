@@ -2,7 +2,7 @@
 
 ### Olá
 
-- 🔭 Atualmente estou trabalhando em Infraestrutura na empresa <a href="https://grupoelizabeth.gupy.io">Elizabeth Revestimentos</a>
+- 🔭 Atualmente estou trabalhando em Infraestrutura na empresa <a href="https://grupoelizabeth.gupy.io" target="_blank">Elizabeth Revestimentos</a>
 - 📚 Estudante de Gestão de Tecnologia da Informação na <a href="https://www.sc.senac.br/">Faculdade Senac Santa Catarina</a>
 - 👨‍🎓 Formado em Curso Técnico de Programação
 
