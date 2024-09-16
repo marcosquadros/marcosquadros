@@ -1,6 +1,6 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 
-### Olá
+### Olá <img height="180em" src="https://camo.githubusercontent.com/c9a2cfa94ab1467fc6fe24758f4ee65adcde3cb217c1706a0c5bdddd85a87ac3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66396a514c614b4a4a6c36644c30416d6d5a2f67697068792e676966"/>
 
 - 🔭 Atualmente estou trabalhando como Analista de TI na empresa <a href="https://gruposetup.com/" target="_blank">Grupo Setup
 - 📚 Formado em Gestão de Tecnologia da Informação na <a href="https://www.sc.senac.br/">Faculdade Senac Santa Catarina</a>
