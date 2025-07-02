@@ -2,7 +2,7 @@
 
 ### Olá <img height="40em" src="https://camo.githubusercontent.com/c9a2cfa94ab1467fc6fe24758f4ee65adcde3cb217c1706a0c5bdddd85a87ac3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66396a514c614b4a4a6c36644c30416d6d5a2f67697068792e676966"/>
 
-- 🔭 Atualmente estou trabalhando como Analista de TI na empresa <a href="https://gruposetup.com/" target="_blank">Grupo Setup
+- 🔭 Atualmente estou trabalhando na empresa <a href="https://corsul.com.br/" target="_blank">CORSUL
 - 📚 Formado em Gestão de Tecnologia da Informação na <a href="https://www.sc.senac.br/">Faculdade Senac Santa Catarina</a>
 - 👨‍🎓 Formado em Curso Técnico de Programação
 - Clique no botão ao lado para visualizar meu perfil completo no <img src="https://camo.githubusercontent.com/078a190291061c96a40d8ed74889f00e0aeec21a17d9a726038588a3248b24f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
