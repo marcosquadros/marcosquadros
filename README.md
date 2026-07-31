@@ -2,7 +2,7 @@
 
 ### Olá 
 
-- 🔭 Atualmente estou trabalhando na empresa <a href="https://corsul.com.br/" target="_blank">CORSUL como Analista de Suporte Técnico Pleno
+- 🔭 Atualmente estou trabalhando na empresa <a href="https://corsul.com.br/" target="_blank">CORSUL> como Analista de Suporte Técnico Pleno
 - 📚 Formado em Gestão de Tecnologia da Informação na <a href="https://www.sc.senac.br/">Faculdade Senac Santa Catarina</a>
 - 👨‍🎓 Formado em Curso Técnico de Programação
 
